@@ -1,0 +1,40 @@
+[{
+        "question": "Who is the founder of the C programming language?",
+        "options": ["Dennis Ritchie", "Bjarne Stroustrup", "Guido van Rossum", "Linus Torvalds"],
+        "correct_ans": 0  
+    },
+    {
+        "question": "Who is the founder of the Python programming language?",
+        "options": ["Dennis Ritchie", "Bjarne Stroustrup", "Guido van Rossum", "Linus Torvalds"],
+        "correct_ans": 2  
+    },
+    {
+        "question": "Who is the founder of the Java programming language?",
+        "options": ["James Gosling", "Ken Thompson", "Larry Page", "Richard Stallman"],
+        "correct_ans": 0  
+    },
+    {
+        "question": "Who is the founder of the Perl programming language?",
+        "options": ["Larry Wall", "Donald Knuth", "John McCarthy", "Anders Hejlsberg"],
+        "correct_ans": 0  
+    },
+    {
+        "question": "Who is the founder of the JavaScript programming language?",
+        "options": ["Brendan Eich", "Larry Wall", "Anders Hejlsberg", "Ken Thompson"],
+        "correct_ans": 0  
+    },
+    {
+        "question": "Who is the founder of the PHP programming language?",
+        "options": ["Rasmus Lerdorf", "Guido van Rossum", "Dennis Ritchie", "James Gosling"],
+        "correct_ans": 0  
+    },
+    {
+        "question": "Who is the founder of the C++ programming language?",
+        "options": ["Bjarne Stroustrup", "Linus Torvalds", "John McCarthy", "Ken Thompson"],
+        "correct_ans": 0  
+    },
+    {
+        "question": "Who is the founder of the R programming language?",
+        "options": ["Ross Ihaka", "Rob Pike", "Richard Stallman", "Robin Milner"],
+        "correct_ans": 0  
+    }]
